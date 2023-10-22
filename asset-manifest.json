@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reeswanth/task3-2.git/static/css/main.3713a543.css",
+    "main.js": "/Reeswanth/task3-2.git/static/js/main.89d1eecb.js",
+    "index.html": "/Reeswanth/task3-2.git/index.html",
+    "main.3713a543.css.map": "/Reeswanth/task3-2.git/static/css/main.3713a543.css.map",
+    "main.89d1eecb.js.map": "/Reeswanth/task3-2.git/static/js/main.89d1eecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3713a543.css",
+    "static/js/main.89d1eecb.js"
+  ]
+}
